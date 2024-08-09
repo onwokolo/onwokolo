@@ -6,7 +6,7 @@ Software Developer
 
 I am a software developer who loves to code in React for frontend, and .NET or Golang for backend.
 
-* 🌍  I'm based in Shreveport, LA
+* 🌍  I'm based in Raleigh, NC
 * ✉️  You can contact me at [onyema.nwokolo@gmail.com](mailto:onyema.nwokolo@gmail.com)
 * 🧠  I'm learning Dev Ops
 * 🤝  I'm open to collaborating on projects.
